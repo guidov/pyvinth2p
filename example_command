@@ -1,0 +1,1 @@
+python convert_camvarhyb2pres.py  --infile cesmi6gat31rblc210_ANN_210912_998911_cam2_decclimots.nc --var T
